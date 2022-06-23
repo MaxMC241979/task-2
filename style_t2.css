@@ -102,8 +102,10 @@ h2{
 
 .btn
 {
+  display: flex;
     margin-top: 100px;
 }
+
 
 .img_card {
 width: 155px;
