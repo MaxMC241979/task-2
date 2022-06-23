@@ -12,19 +12,27 @@ body {
 }
 
 header {
-  display: flex;
-  margin-top: 21px;
+  display: table;
+  width: 100%;
+  margin-top: 10px;
+	
+}
 
+.img_prof
+{
+  margin-top: 15px;
+  border-radius: 10px;
 }
 
 ul {
   list-style: none;
   margin: 0;
   padding-left: 0;
-  margin-top: 25px;
+  margin-top: 5px;
   background: #d9d9d9;
   height: 50px;
   border-radius: 10px;
+  display: table-row;
 }
 
 a {
